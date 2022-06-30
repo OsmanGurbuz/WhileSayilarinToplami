@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\bin\Debug\WhileSayılarınToplamı.exe.config
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\bin\Debug\WhileSayılarınToplamı.exe
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\bin\Debug\WhileSayılarınToplamı.pdb
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\obj\Debug\WhileSayılarınToplamı.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\obj\Debug\WhileSayılarınToplamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\obj\Debug\WhileSayılarınToplamı.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\obj\Debug\WhileSayılarınToplamı.exe
+C:\Users\hp\Desktop\yeni denemeler\WhileSayılarınToplamı\obj\Debug\WhileSayılarınToplamı.pdb
